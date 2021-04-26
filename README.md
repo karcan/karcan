@@ -13,7 +13,7 @@
 >    2. [x] Java (JVM, Spring, Spring Boot, NHibernate)
 >    3. [x] AutoIt
 >* Frontend
->    1. [x] Angular
->    2. [x] React
+>    1. [x] Angular2
+>    2. [x] ReactJS
 >    3. [x] Jquery
 >    4. [x] Vanilla

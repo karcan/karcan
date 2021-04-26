@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**karcan/karcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on CRM Project as SQL Developer
+- 🌱 I’m currently learning Java & React
+- 💬 Ask me about "SQL or .NET"
 
-Here are some ideas to get you started:
+## Support Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> * Backend
+>    1. [x] .NET (C#, MVC, Core, WebApi, Entity Framework)
+>    2. [x] Java (JVM, Spring, Spring Boot, NHibernate)
+>    3. [x] AutoIt
+>* Frontend
+>    1. [x] Angular
+>    2. [x] React
+>    3. [x] Jquery
+>    4. [x] Vanilla

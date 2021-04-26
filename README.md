@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java & React
 - 💬 Ask me about "SQL or .NET"
 
-## Support Technologies
+## Technologies of Working
 
 > * Database
 >    1. [x] MsSQL

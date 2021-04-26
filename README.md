@@ -7,6 +7,7 @@
 
 > * Database
 >    1. [x] MsSQL
+>    2. [x] MySQL
 > * Backend
 >    1. [x] .NET (C#, MVC, Core, WebApi, Entity Framework)
 >    2. [x] Java (JVM, Spring, Spring Boot, NHibernate)

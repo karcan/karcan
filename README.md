@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <img width=450 src="https://github-readme-stats.vercel.app/api?username=karcan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img width=327 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karcan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7">
+    <img height=177 src="https://github-readme-stats.vercel.app/api?username=karcan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karcan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7">
 </p>
 
 

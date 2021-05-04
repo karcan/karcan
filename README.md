@@ -1,5 +1,8 @@
-<p align="center>
-          Karcan Ozbal
+<h1 align="center">
+    Karcan OZBAL
+</h1>
+<p align="center">
+ `SQL Expert` and `Software Developer`
 </p>
 
 * * *

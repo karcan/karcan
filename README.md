@@ -1,6 +1,6 @@
-
-- 🔭 I’m currently working on `CRM Project` as `SQL Developer`
-- 💬 Ask me everthing about `T-SQL`
+<p align="center>
+          Karcan Ozbal
+</p>
 
 * * *
 <p align="center">

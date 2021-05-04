@@ -8,4 +8,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karcan&layout=compact&theme=light)
 
-![](https://github-readme-stats.vercel.app/api?username=karcan&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=karcan&count_private=true) -->

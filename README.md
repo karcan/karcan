@@ -2,7 +2,7 @@
     Karcan OZBAL
 </h1>
 <p align="center">
- <img width=14 src="https://www.flaticon.com/svg/vstatic/svg/586/586279.svg?token=exp=1620166890~hmac=0350981eefb49c8b0b0156febd132091"> `SQL Expert` and `Software Developer`
+ <img width=15 src="https://www.flaticon.com/svg/vstatic/svg/148/148825.svg?token=exp=1620166988~hmac=09a28155fc6bf75519646e99c1aa6869"> `SQL Expert` and `Software Developer`
 </p>
 
 <p align="center">

@@ -6,6 +6,6 @@
 <a href="https://karcanozbal.medium.com/"><img src="https://img.shields.io/badge/MEDIUM-D14836?style=for-the-badge&logo=medium&logoColor=white&color=gray"></a>
 <a href="https://www.patreon.com/karcan"><img src="https://img.shields.io/badge/PATREON-D14836?style=for-the-badge&logo=patreon&logoColor=white&color=orange"></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karcan&layout=compact&theme=light)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karcan&layout=compact&theme=dark)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=karcan&count_private=true) -->

@@ -21,5 +21,8 @@
 <h1 align="center">
     -- Last Stories on Medium --
 </h1>
-- https://karcanozbal.medium.com/java-web-servis-client-mernis-kimlik-do%C4%9Frulama-sistemi-86163b6286f9
-- https://karcanozbal.medium.com/cte-common-table-expressions-ne-zaman-ve-nerede-kullanmal%C4%B1y%C4%B1z-a791ed8731ee
+
+- <a href="https://karcanozbal.medium.com/cte-common-table-expressions-ne-zaman-ve-nerede-kullanmal%C4%B1y%C4%B1z-a791ed8731ee">CTE(Common Table Expressions): Ne zaman ve Nerede kullanmalıyız?
+</a>
+- - <a href="https://karcanozbal.medium.com/java-web-servis-client-mernis-kimlik-do%C4%9Frulama-sistemi-86163b6286f9">Java / Web Servis Client (Mernis, Kimlik Doğrulama Sistemi)
+</a>

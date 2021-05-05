@@ -1,5 +1,5 @@
 <h1 align="center">
-    Karcan
+    KARCAN
 </h1>
 <p align="center">
  `SQL Expert` and `Software Developer`

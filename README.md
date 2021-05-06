@@ -23,4 +23,6 @@
 • <a href="https://karcanozbal.medium.com/java-web-servis-client-mernis-kimlik-do%C4%9Frulama-sistemi-86163b6286f9">Java / Web Servis Client (Mernis, Kimlik Doğrulama Sistemi)</a>
 </p>
 
+<p align="center">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/karcan?color=red&label=stars&logo=github&style=for-the-badge">
+</p>

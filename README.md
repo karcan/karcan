@@ -4,6 +4,9 @@
 <p align="center">
  `SQL Expert` and `Software Developer`
 </p>
+<p align="center">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/karcan?color=red&label=stars&logo=github&style=for-the-badge">
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/karcanozbal/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
@@ -21,8 +24,4 @@
 <p align="center">
 • <a href="https://karcanozbal.medium.com/cte-common-table-expressions-ne-zaman-ve-nerede-kullanmal%C4%B1y%C4%B1z-a791ed8731ee">CTE(Common Table Expressions): Ne zaman ve Nerede kullanmalıyız?</a>
 • <a href="https://karcanozbal.medium.com/java-web-servis-client-mernis-kimlik-do%C4%9Frulama-sistemi-86163b6286f9">Java / Web Servis Client (Mernis, Kimlik Doğrulama Sistemi)</a>
-</p>
-
-<p align="center">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/karcan?color=red&label=stars&logo=github&style=for-the-badge">
 </p>

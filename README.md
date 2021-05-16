@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/karcanozbal/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
-<a href="https://karcanozbal.medium.com/"><img src="https://img.shields.io/badge/MEDIUM-D14836?style=for-the-badge&logo=medium&logoColor=white&color=gray"></a>
+<a href="https://karcan.medium.com/"><img src="https://img.shields.io/badge/MEDIUM-D14836?style=for-the-badge&logo=medium&logoColor=white&color=gray"></a>
 <a href="https://www.instagram.com/karcan.js"><img src="https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=red"></a>
 <a href="https://www.patreon.com/karcan"><img src="https://img.shields.io/badge/PATREON-D14836?style=for-the-badge&logo=patreon&logoColor=white&color=orange"></a>
 </p>
@@ -22,6 +22,6 @@
 * * *
 
 <p align="center">
-• <a href="https://karcanozbal.medium.com/cte-common-table-expressions-ne-zaman-ve-nerede-kullanmal%C4%B1y%C4%B1z-a791ed8731ee">CTE(Common Table Expressions): Ne zaman ve Nerede kullanmalıyız?</a>
-• <a href="https://karcanozbal.medium.com/java-web-servis-client-mernis-kimlik-do%C4%9Frulama-sistemi-86163b6286f9">Java / Web Servis Client (Mernis, Kimlik Doğrulama Sistemi)</a>
+• <a href="https://karcan.medium.com/cte-common-table-expressions-ne-zaman-ve-nerede-kullanmal%C4%B1y%C4%B1z-a791ed8731ee">CTE(Common Table Expressions): Ne zaman ve Nerede kullanmalıyız?</a>
+• <a href="https://karcan.medium.com/java-web-servis-client-mernis-kimlik-do%C4%9Frulama-sistemi-86163b6286f9">Java / Web Servis Client (Mernis, Kimlik Doğrulama Sistemi)</a>
 </p>

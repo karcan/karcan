@@ -1,13 +1,3 @@
-<h1 align="center">
-    KARCAN
-</h1>
-<p align="center">
- `SQL Expert` and `Software Developer`
-</p>
-<p align="center">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/karcan?color=red&label=stars&logo=github&style=for-the-badge">
-</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/karcanozbal/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
 <a href="https://karcan.medium.com/"><img src="https://img.shields.io/badge/MEDIUM-D14836?style=for-the-badge&logo=medium&logoColor=white&color=gray"></a>
